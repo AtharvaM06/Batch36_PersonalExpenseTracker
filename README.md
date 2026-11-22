@@ -1,16 +1,15 @@
-# Personal Expense Tracker
+# BudgetX - Personal Expense Tracker
 
 > **Spend wisely. Save smartly.**  
-> Mini Hackathon — C Programming Lab | Problem 4
+> Mini Hackathon 
 
 ## Team details
 
-- **Batch:** `[ENTER BATCH]`
-- **Team number:** `[ENTER TEAM NUMBER]`
-- **Member 1:** `[NAME / ROLL NO.]`
-- **Member 2:** `[NAME / ROLL NO.]`
-- **Member 3:** `[NAME / ROLL NO.]`
-- **Faculty:** `[ENTER NAME]`
+- **Batch:** `36`
+- **Team Name:** `Deadhacks`
+- **Member 1:** `Atharva Mishra - 590040132`
+- **Member 2:** `Ayush Saxena - 590036856`
+- **Faculty:** `Naman Chauhan - 590036859`
 
 ## Problem statement
 
@@ -30,16 +29,6 @@ Build a simple expense tracker to help a student manage a monthly budget. Accept
 
 `struct` / `typedef`, arrays, strings, `fgets`, `sscanf`, functions, loops, `switch`, `if/else`, constants, and formatted console output.
 
-## Compile and run
-
-Requires a C11 compiler such as GCC:
-
-```bash
-gcc -std=c11 -Wall -Wextra -pedantic expense_tracker.c -lm -o expense_tracker
-./expense_tracker
-```
-
-On Windows with GCC: `gcc -std=c11 expense_tracker.c -lm -o expense_tracker.exe` and then `expense_tracker.exe`.
 
 ## Menu
 
@@ -79,7 +68,7 @@ See [`TEST_CASES.md`](TEST_CASES.md) for normal, boundary, and invalid-input sce
 ## Repository contents
 
 ```text
-expense_tracker.c
+BudgetX.c
 README.md
 ALGORITHM.md
 TEST_CASES.md
