@@ -9,7 +9,9 @@
 - **Team Name:** `Deadhacks`
 - **Member 1:** `Atharva Mishra - 590040132`
 - **Member 2:** `Ayush Saxena - 590036856`
-- **Faculty:** `Naman Chauhan - 590036859`
+- **Member 3:** `Naman Chauhan - 590036859`
+  
+- **Faculty:** `Mrs. Arti Bahuguna`
 
 ## Problem statement
 
